@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Szeretni Maut",
+      "day": "Mindig",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "asdfasdf",
+      "day": "asdfasdf",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "asdfasd",
+      "day": "ffff",
+      "reminder": false,
+      "id": 7
+    }
+  ]
+}
